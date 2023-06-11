@@ -1,3 +1,6 @@
 note book
 work book
 text book
+phone book
+pass book
+etc
